@@ -1,0 +1,13 @@
+Testes Automatizados
+
+1 - Testes unitários
+
+2 - Testes integração
+
+-> request -> routes -> controller -> repository 
+<- repository <- controller <- response
+
+
+
+yarn add jest @types/jest -D
+yarn add supertest @types/supertest -D
